@@ -11,7 +11,7 @@ This Legal LLM Application is a comprehensive tool designed to assist legal prof
 3. **Legal Trend Analyzer**: Identify and explain trends in Supreme Court decisions over time.
 4. **Case Outcome Predictor**: Predict potential outcomes of new cases based on historical data.
 5. **Legal Research Assistant**: Intelligent search and cross-referencing of legal documents.
-6. **Constitutional Interpretation Tracker**: Track the evolution of constitutional article interpretations.
+6. **Constitutional Interpretation Tracker**: Track the evolution of constitutional article interpretations.  
 7. **Judge Profile and Analysis Tool**: Analyze patterns in individual judges' decision-making.
 
 ## Installation
